@@ -1,0 +1,12 @@
+{
+    "name": "jr.babelES6",
+    "title": "BabelES6",
+    "description": "Transform ES6 and JSX files into ES5 automatically using Babel",
+    "homepage": "https://github.com/anIddan/autobabel",
+    "version": "1.0.0",
+    "author": "Jignesh Raval",
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=1.5.0"
+    }
+}
