@@ -10,7 +10,7 @@ Thank you.
 Install:
 
 Download "babel-6.3.13" folder and put it inside following system path:
-C:\Users\<Your Name Here>\AppData\Roaming\Brackets\extensions\user\babel-6.3.13
+C:\Users\{Your Name Here}\AppData\Roaming\Brackets\extensions\user\babel-6.3.13
 
 Or open brackets > Help > Show Extentions Folder : This will open up extentions folder for you.
 
